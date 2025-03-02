@@ -14,3 +14,5 @@ Developed a multithreaded HTTP server that handles GET requests, serving files o
 
 - **More Projects to Come:**
 Last update - 3/2/2025
+
+Each project demonstrates networking concepts, focusing on protocol implementation, client-server communication, socket programming, and performance evaluation.
