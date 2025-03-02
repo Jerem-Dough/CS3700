@@ -11,3 +11,6 @@ Implemented a UDP-based client-server system where the client sends item ID requ
 
 - **Multithreaded HTTP Server & Client (server_HW3.java, client_HW3.java):**  
 Developed a multithreaded HTTP server that handles GET requests, serving files over TCP. The client sends HTTP requests, processes responses, and saves retrieved files locally. The project demonstrates socket programming, HTTP request formatting, and response handling.
+
+- **More Projects to Come:**
+Last update - 3/2/2025
